@@ -1,0 +1,15 @@
+body {
+  background-color: #D3E4E6;
+  font-family: Courier New;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #4E7C74;
+}
+
+p {
+  font-size: 24px;
+  color: #335B55;
+}
