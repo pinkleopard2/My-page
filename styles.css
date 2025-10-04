@@ -1,15 +1,17 @@
 body {
-  background-color: #D3E4E6;
+  background-color: #575B61;
   font-family: Courier New;
   text-align: center;
   margin-top: 50px;
 }
 
 h1 {
-  color: #4E7C74;
+  font-size: 55px;
+  color: #202326;
 }
 
 p {
-  font-size: 24px;
-  color: #335B55;
+  font-weight: 550;
+  font-size: 30px;
+  color: #202326;
 }
